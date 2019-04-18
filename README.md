@@ -21,7 +21,7 @@
 
 三、Run:
     
-1、生成可执行文件 bin/demo_live_camera.sh.sh
+1、生成可执行文件 bin/demo_batch_detector.sh
 
-2、根目录下： 运行 ./scripts/demo_live_camera.sh.sh
+2、根目录下： 运行 ./scripts/demo_batch_detector.sh
 
