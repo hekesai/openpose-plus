@@ -1,3 +1,22 @@
-6;…môº‚;»êBe:;H”º&jò9µäY:ÿñ0;îRˆ»á÷½º˜™~:©Ò:´Ÿ»ÓŠ[»œƒ8¸v¯:¥C„;]éÜº;Nº¬»T¼¼¸UÉ—;M‘;ÅÎº§:ˆHÄºæpä9/n;\™¡º7¾:”Asº‡ã¬ºØmÓ:Ùí›9'7·º>œ‡;…«%»b¾:\;ñ|»wJë:û„¸Aã­:‰ƒ8œï>»
-<Ž»à’	ºü:4˜Ä8ñÈ×:‹s;o:~¯9>à˜;E“;’‰»ÅXÈºù’Ø:ðÎ%»V<!;ós»N.»GÀ)¹‹¿~º¬5e8Kz»í¬ç:Óa:Õz:ËÅ:Ô¿…:`ž:†Ñº¹€ JºCÃF¹·!û¹q)#ºúžÏ9#;±™l»Çºó:Z,d;áÇ»uäs9”û ºÍÙ¬:±¦üº ôºÀD·9~ö:k_»§—»»z4;€º»[OÒº-w‘»¢ob:òCõºÆG¦:ª1»‘)»Ôøº~ƒ»&u^9uT+»œïš:Dœ»væq»pŒ»9ÚüÒºí&HºÚÐË9Ks·:^dÝ»Ï[‡ºnNÜºE_:;¥Æºr¤ºÆCÒ:ô¿»D-D;3<ºÎˆ9§ñ¬;`ª»Ö:í-©¹“£D»­¦i:í¶};MÑýº<~;2%OºiTº¸¸È¹vÿ9»äˆåºÌvÙº÷ÐF9ÅhžºR~:±•3:8{»|©6»£%Ðº@:P:ðëº§òO;m<§³ºèV;Ó?1;ð63;f4:¡£:û· 9”fõ7»‹Y»)'¯ºÔrV:ÌGÓ:ÿp»ÝT;GÆyº«ô932\»=Ö>¹xs	;ÿ+;»x¬„»ÇÈ‹;‚”:]};áê–»¾.»¸
-å:‘	©:oN6:L¯1ºI³¹$¤#
+/*
+ *  Copyright 2008-2013 NVIDIA Corporation
+ *
+ *  Licensed under the Apache License, Version 2.0 (the "License");
+ *  you may not use this file except in compliance with the License.
+ *  You may obtain a copy of the License at
+ *
+ *      http://www.apache.org/licenses/LICENSE-2.0
+ *
+ *  Unless required by applicable law or agreed to in writing, software
+ *  distributed under the License is distributed on an "AS IS" BASIS,
+ *  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ *  See the License for the specific language governing permissions and
+ *  limitations under the License.
+ */
+
+#pragma once
+
+#include <thrust/detail/config.h>
+
+// this system has no special temporary buffer functions
+

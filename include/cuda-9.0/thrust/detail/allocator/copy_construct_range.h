@@ -1,1 +1,47 @@
-ñ=9¶ƒîx[¿ß¢ûóù9—}dT6î÷?ûé¶Ùßñ¸¯g»h³Ş—ÆıŸ&}•Ekõ½ûİßÊ6÷8|¯~Í^ØG›<¼ÿãÒ7¬´;i!h0~ı¨g|Û_ú›7\#Ú;u\mµÕú¯½oİ~—¥—G]§ôŞyöKoîôåÚ7Ÿ˜ôÓ‡MÏ~nø+’;n½Åü¾G¯ë<3¾ƒ_¹kô0ŞnÅ©÷ä;o\ëÓã}¾c¾óa¯Ê±êÿMíß°û·^İQÏ°İ¡Oï_xÓsÜ—dì£ŞXnzè±şëÑ}tü­{9FıZ²ş%QçuÃÆ;6øš¿ÃCÔ3GCóó8n²ø1ş“†Œóï»h;éƒ¶Üåá Ó¿gÿĞr—¥oÈ9>æâçõkozv|4º‡3?ôxj¾İ¡GöxFÛÊá“â)swËÇ¯_{ŞŞı1?¾e·«úo~àÑıÍº/Ú1şu|Åø¯{Î;¿·:ø•}Ğ&im|×¾y·äûÓŸ³SôéòŞÜsñïFõtúü<{Twû‹ÏÊ¾lpĞÿ³~†xÖ¿j×w·|Sôõ´q·uvÄ³k¿ùæ›¯\›ŸXïOãöK~cœïhQë5x¼ó[Û§İó¥Ş|ÕXºãêü|ëèmbÎ×Şô[ÁKGõ±–²½xoĞvŒ¿»ôMjwˆrı¯û—èÛÑx=Úz_÷»øôW>xDôiC}îŸrúsĞa¸õäg÷/Zã€nñÓşqÜkù#ãÕ/8Zú O¬¡çÖªzƒ‡û gÎ×¯;¡ÇW7œôüë÷‹¹^£Os}3¯Ág¹î>åÇ™¢¯ÿoÆĞt<< Ç†5øJ¬©ğcwõş)êºj0¯çıùÑ ûf±öÆf=-ÌgÈŒ{:t¸şcïÁ‹İ×Şw¹ÒıñmKº·ì¶NğÄ0Ÿ¾,›øˆYÌWæÂšÚm_âón§İ—¿}+:Ï£ì,èÖ¿ş–¥ãŞ{ŞÅ¡}²¯{îNÈqüÊãûv¤õ:w]»XGã–»¼<Öğ?­/CVÌ~åïú éğ—·¿SÆ6ûÜø—·ßô»¿^Œu²d<âŸÑÉÉuüT¬±Ô‰¿æhNÎmzöÍıc×ı%xø‚½Özâ&!£¯b;ó5ÿğµ1§{ö¾/~Ú]·æ?Œgã{A¯‹—í¾ğÛA¿ô;Úë»5oŞ¿îEı%Ï;3æô¨¤O°Uò¥[ú†Ï÷«ï°¶6r=}í}_­ÇÖşnŒëÉİÙß¸+xáÒş€¯¼šÅW½9‹çæ°:ÁKøª;à+jƒLÈ¯¾ú©Ú wºàÃşîS>ÛûÇoÊqÑäŒ¹Ü{¿Iùß­ydÊòK÷²\SÑv‡¦ûŞşâèóEIƒ˜×ù'İë/ôHwæ‡¾İ]í¨OŸ‚ÉëŸXï¿mÑ‡^JZXçdÕW_}Èìùgİo»ÕÁ¹6W!s‚Gæ£qãéÅO;*tÅ¹±&NL¹C–“İ‡ßùÉoÆœÎ×zâwè±>xs]0D]OêC^$o¿ş–‡{óDÆxûİşO¿Î‘y‡'‚‡ú—ŞüÍ?ŸÏq>ıÆŸçw:üÒ7ı ~¢oz'æéçAÃ×¦^¹áŞxÉóîz.éƒçÈ­m¼÷ÌÕ¿Š¿:åBÎ€_Bgİ2ziŞ=Ù¹o}ïGÿ~Hoxgt?d|¶ëv†7Ü‹9Zˆõ|}nÈ‡óƒv?@³…àY20Æü·1‡gZó]Ì%Y—m«s÷…ãú(<^¶k^¼¯?°…:é3këÛ?>„LôóœËÎËq’Ñd·{>«ïğ…ÔõÖùõ]Ş²à×cè>ôLğà9YÌıH/’•ÆçXS¯¿åãÙ.º¹/Ïõ‰n§c^‡ımiôÛAwëõèĞéSÈî¤›şÄ:.ºÿÛ)éÕcïÚhÄ£úğÂ›öB–ÍCîÌ^´ÆFïè—váß½ë”¬‹<>êÿuÏÙà>ŒCV¦î=şYw%FÉn»êÄ¤¯¾(ã}:“ü\´åoFï“«ô^¬•~ù#§fÑÆÊ>Ğ9›=åötfÈSØ$Çc±¾Ìsö)êOL”|
+/*
+ *  Copyright 2008-2013 NVIDIA Corporation
+ *
+ *  Licensed under the Apache License, Version 2.0 (the "License");
+ *  you may not use this file except in compliance with the License.
+ *  You may obtain a copy of the License at
+ *
+ *      http://www.apache.org/licenses/LICENSE-2.0
+ *
+ *  Unless required by applicable law or agreed to in writing, software
+ *  distributed under the License is distributed on an "AS IS" BASIS,
+ *  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ *  See the License for the specific language governing permissions and
+ *  limitations under the License.
+ */
+
+#pragma once
+
+#include <thrust/detail/config.h>
+#include <thrust/detail/execution_policy.h>
+
+namespace thrust
+{
+namespace detail
+{
+
+template<typename System, typename Allocator, typename InputIterator, typename Pointer>
+__host__ __device__
+  Pointer copy_construct_range(thrust::execution_policy<System> &from_system,
+                               Allocator &a,
+                               InputIterator first,
+                               InputIterator last,
+                               Pointer result);
+
+template<typename System, typename Allocator, typename InputIterator, typename Size, typename Pointer>
+__host__ __device__
+  Pointer copy_construct_range_n(thrust::execution_policy<System> &from_system,
+                                 Allocator &a,
+                                 InputIterator first,
+                                 Size n,
+                                 Pointer result);
+
+} // end detail
+} // end thrust
+
+#include <thrust/detail/allocator/copy_construct_range.inl>
+

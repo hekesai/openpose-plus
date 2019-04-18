@@ -1,3 +1,23 @@
-ûÄô…äÛ2•ÚÊÂ¶‚½¯³ÒÜZG˜Ö×"­­ÒC°?•fØÑXĞB­…•J,c%ÒU	Äøêj¦Êƒ9R©¡¥Úó`P^IˆÁ¤î@:4­‹Awwsc'6¾eÒJ¤;àF† È¾Ö¦ª^eõ¶t}Á4dÆ‚À®)~ï‘;¾sÓR @3ZÂÅô`@‚±"ÒÕ^À±RobÜ¶’J.‹F2à6º‹wqkÈUøae‰{Õæ
-6Ã[c»2%ª#²>$tYŠ7ğ+r£moÑx´RËÂ^:Î6òE„˜·¡ø·2§eë(¡üüî3fÇµÛ@=©c†FZùqÔaûšÉTÅ®˜}w	»š)t5Â@¤!Û9",ø!Bkâ9"vS[ÈP™Á†íÍ­-caU@{<ù…ø&p~R€…¢~ç<â?·Ú¶Û"lÍºVñ¢!W¥o¨V!-2z%Ğî˜qìN2Ÿj_ëÛİ¬ım»¿E®"Äˆ1<m?Ì€¥ãDxºÂ^ĞP—ËO¯c#¿)ÿLÒDİ,"³©,e”£Êø%5±~oLˆ’“8§Ú'fçÛÿE1ÊH{²J‚â(4ñG'/Úæ¡ªH‰M<*™A•eAq¼KĞbi$‰Æš¨.¬ı5À3YáËbàÅhopó’„	Ğ¨¿ñ^ì¢vuL2uøl§5¢ÀĞÎkÔ+²FàğA0”Œ«Ó°µ6ï–‘ñ¨«bÎ²iì¥Y.¸f#7R/nØ`3Sm£íæ°r5vdö’áh¤œî[«Ã”
-ÑŒ)œı×"Ìk³|?c¿Æ- ñşß°v'uãİçr*SóİyuÂˆ>b<Î–NNy>^”-ÚI‚“Ğ`š}Š€}TÈ4Iz:\x“ZfìŞ¸ã.RØHœ*a)¹ùo$p½³½ñæZ,)‚ˆÆ&R{,‰W‰O9y³æÜ
+/*
+ *  Copyright 2008-2013 NVIDIA Corporation
+ *
+ *  Licensed under the Apache License, Version 2.0 (the "License");
+ *  you may not use this file except in compliance with the License.
+ *  You may obtain a copy of the License at
+ *
+ *      http://www.apache.org/licenses/LICENSE-2.0
+ *
+ *  Unless required by applicable law or agreed to in writing, software
+ *  distributed under the License is distributed on an "AS IS" BASIS,
+ *  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ *  See the License for the specific language governing permissions and
+ *  limitations under the License.
+ */
+
+#pragma once
+
+#include <thrust/detail/config.h>
+
+// this system inherits tabulate
+#include <thrust/system/cpp/detail/tabulate.h>
+

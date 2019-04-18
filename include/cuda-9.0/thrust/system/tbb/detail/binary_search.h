@@ -1,3 +1,23 @@
-|-5£[çq5¬¼%=«…ßôÕÖÖvä-÷ÓPu%5ûL]Ë¨¥)­ÎYl¥ûRXÆp."ªA7Ìû6M…ËÓÉ 7‡”+9
-ç™¹;ÚMPË]éÛ‚=¨L„À#D:Ì¸Ð£‰¢ž!0¡2Brè¼.£õl	,(ÒXâòâæ“/È®òoÀEÁé¢inÇ$ZHž„l³@£ŽöÔ8ÈÖ¤àlöî¤Áƒ®¨.YBÄ¯ãçÆ»CrÓ.XÅ÷zä1×ÏdÑ¹ÉÑ"×Ã\\±†$Âî1=gzžSð™‘_Ÿ‡›j‚„L«VV/rêpÏ_ˆN¥-iÊk6èSoJ428T±ú…4- …;P¤f­*Îa‚;‡Z¸¯ãÝl©P™‘DT¥þº¬‚E§ý¡‘RÄI*æ°pñ„F¥²qã40Ä$¸¡'ØÎÛÇo•ÜÙ§žPéZU45¥T)%}rŠ5¢ÞØ\lÄ×v1_iÀ"ð%cóèQçä¡H#]¼¬«™å.Ð,WÍ-<(TðÚÊHNqÞ‰Bö‰±¯bÔf'ñë­9%ÃšãŒ¶‹¡™DU*íp —œ÷`ÜÀšœ·ê5¡Ü0`.ŽÅÎÔëX&6D‚5µé5¢ÆÓNÛ<Š‰ëáR—]M˜VË­Ç˜¡/ÞˆÊQc»VÃ	4;ÁeñÅ+ØjÈ1öàšÇŽq—uZ{7ÃÔŒåÌ"cŠÎ9ÓµÜÚ£Ç‚Ð ½.j‹7sÁØo¬Jƒ™nIÇgß@š7¬þ[/‚¢è©Hºº…pûz
-Ñ9“š>Û‰D&ðtEÏÀ/–¯,g€Oƒl& $…¨@Q$5f„,@¡„]r`‡"ZÆ¦0l€²L£P¯4<OÑEa¡´TqW®VR 3¬ªô¦Œ]x †€C©ÌTn¦r¯ŒBM¡¡ÜTn¦Z¯5¹Ã˜Núf@¢ûw•0x@4Jž­=_
+/*
+ *  Copyright 2008-2013 NVIDIA Corporation
+ *
+ *  Licensed under the Apache License, Version 2.0 (the "License");
+ *  you may not use this file except in compliance with the License.
+ *  You may obtain a copy of the License at
+ *
+ *      http://www.apache.org/licenses/LICENSE-2.0
+ *
+ *  Unless required by applicable law or agreed to in writing, software
+ *  distributed under the License is distributed on an "AS IS" BASIS,
+ *  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ *  See the License for the specific language governing permissions and
+ *  limitations under the License.
+ */
+
+#pragma once
+
+#include <thrust/detail/config.h>
+
+// this system inherits binary_search
+#include <thrust/system/cpp/detail/binary_search.h>
+
